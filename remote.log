@@ -1,2 +1,3 @@
+6a2f4c58-4e0b-409e-881c-da5fcbc53d05 exporttree=yes sameas-name=my-sciebo-storage sameas-uuid=ce565c92-f200-4d16-8dc7-7088cf66ac70 type=webdav url=https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C06/pub-dataset timestamp=1676048668.74256565s
 ce565c92-f200-4d16-8dc7-7088cf66ac70 encryption=none exporttree=yes name=sciebo-storage type=webdav url=https://gast.sciebo.de/remote.php/dav/files/timm.wetzel%40sf.mpg.de/C06/pub-dataset timestamp=1675967217.332564s
 d1315a5b-9d78-4f63-9ebe-80491c6f4c56 encryption=none exporttree=yes name=sf-nc-storage type=webdav url=https://nextcloud.sf.mpg.de/remote.php/dav/files/twetzel/SFB1451-MOCOD1-pubcat/ timestamp=1664882694.494649s
