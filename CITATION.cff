@@ -24,23 +24,25 @@ authors:
     affiliation: >-
       Max-Planck-Institute for Metabolism Research;
       CECAD Research Centre
-identifiers:
-  - type: doi
-    value: 10.1016/j.neuroimage.2022.119335
-    description: >-
-      Neural encoding of food and monetary reward
-      delivery
-  - type: doi
-    value: 10.1016/j.neuroimage.2021.118566
-    description: >-
-      Technical Note: Modulation of fMRI brainstem
-      responses by transcutaneous vagus nerve
-      stimulation
-  - type: doi
-    value: 10.1016/j.molmet.2021.101163
-    description: >-
-      GLP-1 and hunger modulate incentive motivation
-      depending on insulin sensitivity in humans
+# Michał Szczepanik 2023-02-22:
+# the identifiers section is used for *dataset* DOIs in this case; publications are taken from separate RIS files
+#identifiers:
+#  - type: doi
+#    value: 10.1016/j.neuroimage.2022.119335
+#    description: >-
+#      Neural encoding of food and monetary reward
+#      delivery
+#  - type: doi
+#    value: 10.1016/j.neuroimage.2021.118566
+#    description: >-
+#      Technical Note: Modulation of fMRI brainstem
+#      responses by transcutaneous vagus nerve
+#      stimulation
+#  - type: doi
+#    value: 10.1016/j.molmet.2021.101163
+#    description: >-
+#      GLP-1 and hunger modulate incentive motivation
+#      depending on insulin sensitivity in humans
 url: 'https://www.crc1451.uni-koeln.de/index.php/c06/'
 abstract: >-
   This project aims at (i) scrutinising the neural
