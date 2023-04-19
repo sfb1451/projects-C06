@@ -1,0 +1,15 @@
+abstract: This project aims at (i) scrutinising the neural substrates of motor control
+  when these are affected by internal states, and (ii) exploring how primary sympathetic
+  effectors affect motor control circuits. Task-based fMRI analyses of effective connectivity
+  in humans will be employed to generate model-based computational indices of neural
+  network function of motor control and reward processing. These models are then used
+  to test for individual expressions of motor function and their modulation by standardised
+  pro-dopaminergic treatment as well as inflammation.
+authors:
+- {family-names: Jessen, given-names: Frank}
+- {family-names: Tittgemeyer, given-names: Marc}
+- {family-names: Rigoux, given-names: Lionel}
+- {family-names: Zeyen, given-names: Philip}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'C06: Major depression as a transient functional lesion model of motor control'
